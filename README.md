@@ -14,3 +14,4 @@ Fix the position of the ToDo list a bit better. Also allow for sections of the T
 
 License information
 The MIT License (MIT)
+https://opensource.org/licenses/MIT
